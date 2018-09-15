@@ -1,4 +1,4 @@
-# MCD4J
+# MCD4J (Codes coming soon....)
 Discord &lt;--> MinecraftServer Bridge Plugin with Discord4J
 ## Features
  - Chat infomation
