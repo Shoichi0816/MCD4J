@@ -1,4 +1,4 @@
-# MCD4J (Codes coming soon....)
+# MCD4J (Codes coming soon....) #currently stopping coding omg
 Discord &lt;--> MinecraftServer Bridge Plugin with Discord4J
 ## Features
  - Chat infomation
